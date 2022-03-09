@@ -14,8 +14,12 @@ L'ambiance à l'air plutôt amusante et divertissante. Le fait de répondre aux 
 ## l'installation en cours dans les studios (photos à l'appui)
 il y a un ordinateur qui contrôle toute l'installation, un podium, des haut-parleurs, certain câblage et un avancement dans la programmation du questionnaire.
 
-# le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+![Ordi](images/ordi.png) ![Podium](images/podium.png) ![Grandécran](images/grandécran.png) ![Quiz](images/quiz.png)
 
+# le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+![Cyclorama](images/cyclorama.png)
+
+https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
 
 ## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 On devra répondre aux questions correctement ou faussement pour obtenir différente fin et différente interaction avec le personnage dans le grand écran. Enfaite c'est juste de tester toutes les possibilités que l'installation nous procure.
