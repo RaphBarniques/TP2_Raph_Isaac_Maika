@@ -20,7 +20,7 @@ Toutes les décorations sont présentes, ainsi que l'équipement, les lumières 
 (https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
 
 ## le schéma de l'installation prévue
-![Plan](images/plan.png)
+![Plan](https://github.com/RaphBarniques/TP2_Raph_Isaac_Maika/blob/760c9ab8d45fa3481391de1a9bf419797fc17108/medias/TIM_Chere-sasha_plan.png)
 
 https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html
 
