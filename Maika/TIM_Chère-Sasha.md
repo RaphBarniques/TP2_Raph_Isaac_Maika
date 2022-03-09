@@ -14,10 +14,11 @@ L'ambiance à l'air plutôt oppressant, le fait de vivre la vie d’un personnag
 
 ## l'installation en cours dans les studios (photos à l'appui)
 Toutes les décorations sont présentes, ainsi que l'équipement, les lumières et les haut-parleurs. 
-![Déco](medias/déco.png) ![Haut-parleur](medias/haut-parleur.png) ![Lumière](medias/lumière.png)
+![Déco](images/déco.png) ![Haut-parleur](images/haut-parleur.png) ![Lumière](images/lumière.png)
 
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 ![Plan](images/plan.png)
+https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/preproduction.html
 
 ## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 Nous devrions interagir avec certain élément, observer et entendre l'histoire. Le but de l'expérience est juste de vivre l'histoire.
