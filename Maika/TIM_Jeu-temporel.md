@@ -14,7 +14,7 @@ L'ambiance à l'air plutôt amusante et divertissante. Le fait de répondre aux 
 ## l'installation en cours dans les studios
 il y a un ordinateur qui contrôle toute l'installation, un podium, des haut-parleurs, certain câblage et un avancement dans la programmation du questionnaire.
 
-![Ordi](https://github.com/RaphBarniques/TP2_Raph_Isaac_Maika/blob/0c07bc56f597d1468856d5e19c61b9e94a5d1c0a/medias/TIM_Jeu-temporel_ordi.png) ![Podium]() ![Grandécran](images/grandécran.png) ![Quiz](images/quiz.png)
+![Ordi](https://github.com/RaphBarniques/TP2_Raph_Isaac_Maika/blob/0c07bc56f597d1468856d5e19c61b9e94a5d1c0a/medias/TIM_Jeu-temporel_ordi.png) ![Podium](https://github.com/RaphBarniques/TP2_Raph_Isaac_Maika/blob/7ebf031497c9d0aa716f1336b5e10406dac65465/medias/TIM_Jeu-temporel_podium.png) ![Grandécran]() ![Quiz](images/quiz.png)
 
 (https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
 
