@@ -1,14 +1,14 @@
-## le titre
+# le titre
 Jeu temporel.
 
-# les créateurs et créatrices
+## les créateurs et créatrices
 Raphaël Fillion et Philippe Trudel.
 
 ## la manière dont le thème du temps est exploité dans la création
 Le thème du temps est exploité en sensibilisant notre génération sur les conséquences environnementales sur notre avenir. Le thème du quiz est sur les changements climatique, mais en réalité le jeu présente une critique de notre mode de vie.
 (https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
 
-# l'ambiance
+## l'ambiance
 L'ambiance à l'air plutôt amusante et divertissante. Le fait de répondre aux questions et voir le personnage sur le grand écran réagir semble très réjouissant.
 
 ## l'installation en cours dans les studios
@@ -16,13 +16,13 @@ il y a un ordinateur qui contrôle toute l'installation, un podium, des haut-par
 
 ![Ordi](images/ordi.png) ![Podium](images/podium.png) ![Grandécran](images/grandécran.png) ![Quiz](images/quiz.png)
 
-# le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
+## le schéma de l'installation prévue
 ![Cyclorama](images/cyclorama.png)
 
 https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
 
-## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+## ce qui sera attendu de nous, en tant qu'interacteur.trice, lorsque nous ferons l'expérience de l'installation
 On devra répondre aux questions correctement ou faussement pour obtenir différente fin et différente interaction avec le personnage dans le grand écran. Enfaite c'est juste de tester toutes les possibilités que l'installation nous procure.
 
-# 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
+## 3 cours du programme qui nous semblent incontournables pour avoir les compétences pour créer ce projet
 Pour créer ce projet il faut le cours d'introduction à la programmation multimédia, animation 3D et espace interactif. 
