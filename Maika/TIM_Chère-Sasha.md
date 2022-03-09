@@ -17,7 +17,7 @@ Toutes les décorations sont présentes, ainsi que l'équipement, les lumières 
 ![Déco](medias/déco.png) ![Haut-parleur](medias/haut-parleur.png) ![Lumière](medias/lumière.png)
 
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
-![Plantation](medias/plan.png)
+![Plan](medias/plan.png)
 
 ## ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 Nous devrions interagir avec certain élément, observer et entendre l'histoire. Le but de l'expérience est juste de vivre l'histoire.
