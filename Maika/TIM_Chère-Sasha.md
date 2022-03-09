@@ -15,7 +15,7 @@ L'ambiance à l'air plutôt oppressant, le fait de vivre la vie d’un personnag
 ## l'installation en cours dans les studios
 Toutes les décorations sont présentes, ainsi que l'équipement, les lumières et les haut-parleurs. 
 
-![Deco](medias/TIM_Cheredeco.png) ![Haut-parleur](images/haut-parleur.png) ![Lumière](images/lumière.png)
+![Deco](https://github.com/RaphBarniques/TP2_Raph_Isaac_Maika/blob/b6995e78ad09f0e27e4b333fefeb9a7dd3b3a1d1/medias/TIM_Chere-sasha_deco.png) ![Haut-parleur](images/haut-parleur.png) ![Lumière](images/lumière.png)
 
 (https://tim-montmorency.com/2022/projets/Chere-Sasha/docs/web/index.html)
 
