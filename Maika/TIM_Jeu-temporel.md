@@ -11,7 +11,7 @@ Le thème du temps est exploité en sensibilisant notre génération sur les con
 # l'ambiance
 L'ambiance à l'air plutôt amusante et divertissante. Le fait de répondre aux questions et voir le personnage sur le grand écran réagir semble très réjouissant.
 
-## l'installation en cours dans les studios (photos à l'appui)
+## l'installation en cours dans les studios
 il y a un ordinateur qui contrôle toute l'installation, un podium, des haut-parleurs, certain câblage et un avancement dans la programmation du questionnaire.
 
 ![Ordi](images/ordi.png) ![Podium](images/podium.png) ![Grandécran](images/grandécran.png) ![Quiz](images/quiz.png)
