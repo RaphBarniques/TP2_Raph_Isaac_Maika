@@ -13,6 +13,7 @@ L'ambiance est plutôt visé à amener une curiosité au visiteur, à l'intéres
 
 # Installations dans le studios 
 Il y a des cadres, un projecteur et des capteurs de mouvement. Tout est administré par un ordinateur portable qui assemble ces informations au bien du déroulement de l'expérience.
+
 ![Schema_branchement](https://user-images.githubusercontent.com/89608287/157371565-e2e3a297-1824-4881-8138-6f47e334f34e.png)
 https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/preproduction.html
 # Schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
