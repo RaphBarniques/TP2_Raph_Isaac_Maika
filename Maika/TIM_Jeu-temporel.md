@@ -16,6 +16,8 @@ il y a un ordinateur qui contrôle toute l'installation, un podium, des haut-par
 
 ![Ordi](images/ordi.png) ![Podium](images/podium.png) ![Grandécran](images/grandécran.png) ![Quiz](images/quiz.png)
 
+(https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
+
 ## le schéma de l'installation prévue
 ![Cyclorama](images/cyclorama.png)
 
