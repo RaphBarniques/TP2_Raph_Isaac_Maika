@@ -13,4 +13,7 @@ La kinect est une technologie utilisé majoritairement dans certains jeux vidéo
 
 -L'imagination pour l'armature du TrackClip Pro homemade.
 
+
+Ainsi on peut utiliser un logiciel transformant les points infrarouges du clip captés par la kinect en péré
+
 https://www.hardwakening.fr/news-hardware/fabriquer-dispositif-de-head-tracking-grace-a-kinect/
