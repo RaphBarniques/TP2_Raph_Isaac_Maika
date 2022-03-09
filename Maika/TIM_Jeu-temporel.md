@@ -19,7 +19,7 @@ il y a un ordinateur qui contrôle toute l'installation, un podium, des haut-par
 (https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
 
 ## le schéma de l'installation prévue
-![Cyclorama](images/cyclorama.png)
+![Cyclorama](https://github.com/RaphBarniques/TP2_Raph_Isaac_Maika/blob/bd6c6dcc4062c8280394da20391bc38cd1b5125d/medias/TIM_Jeu-temporel_cyclorama.png)
 
 https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
 
