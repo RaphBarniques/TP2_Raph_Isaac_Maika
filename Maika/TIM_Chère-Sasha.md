@@ -14,7 +14,7 @@ L'ambiance à l'air plutôt oppressant, le fait de vivre la vie d’un personnag
 
 ## l'installation en cours dans les studios (photos à l'appui)
 Toutes les décorations sont présentes, ainsi que l'équipement, les lumières et les haut-parleurs. 
-![Deco](medias/deco.png)
+![Déco](medias/déco.png)
 
 # le schéma de l'installation prévue (insérer le schéma de plantation, avec la source)
 
