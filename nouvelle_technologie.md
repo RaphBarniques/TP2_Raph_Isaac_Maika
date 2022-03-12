@@ -1,19 +1,9 @@
-# Une technique qui sera utilisée dans l'une des œuvres et que nous ne connaitront pas
-Une image qui recopie les mouvements de la personne et qui interagie avec celle-ci.
+## Une technique qui sera utilisée dans l'une des œuvres et que nous ne connaissons pas
+Mise eb olace d'installation réactive: Les étudiants se servent du logiciel Max enseigné à la 5e et 6e session pour créer de la logique dans le comportement de l'oeuvre. Max est capable de relier tout les éléments, virtuel ou physique dans un même endroit et les commander.
+
+Source: https://cycling74.com/products/max
 
 ## Une composante technologique qui sera utilisée dans l'une des œuvres et que nous ne savons pas pour celle-ci, nous devrons faire des recherches pour mieux connaître la technique et la composante technologique
-La Kinect est une technologie utilisé majoritairement dans certains jeux vidéos pour un nouveau style de gameplay. Pour créer un tel composant il faut:
+La Kinect est une technologie utilisé majoritairement dans certains jeux vidéos pour un nouveau style de gameplay. La Kinect sert à suivre les mouvements d'une personne en utilisant dews caméras et des lumières infra-rouge. L'objectif et de remplacer les manettes traditionnelles. Dans notre cas, son usage est détourné. On utilise la détection de présence et de mouvement pour intéragir avec l'oeuvre.
 
--3LEDs infrarouges avec l'angle de diffusion très large et une longueur d'onde de 830nm.
-
--Un vieux chargeur de téléphone.
-
--Une résistance de sorte que l'intensité des LEDs soit de 50-70 mA.
-
--L'imagination pour l'armature du TrackClip Pro homemade.
-
-
-
-Ainsi on peut utiliser un logiciel transformant les points infrarouges du clip captés par la Kinect en périphérique adapté dans les jeux.
-
-https://www.hardwakening.fr/news-hardware/fabriquer-dispositif-de-head-tracking-grace-a-kinect/
+Source: https://www.homecine-compare.com/definition-de-kinect.htm#:~:text=Kinect%2C%20contraction%20de%20%22kinetic%22,et%20microphones%20qui%20le%20composent.
