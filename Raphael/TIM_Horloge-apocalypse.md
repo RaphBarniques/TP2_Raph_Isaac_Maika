@@ -44,3 +44,8 @@ Lors de son arrivée, l'oeil de l'intéracteur sera attiré par l'horloge qui tr
 
 ## Compétences nécessaire
 
+Pour ce projet, les cours d'animation 2D (2e session), Conception sonore (3e session), Espace interactif (5e session) peuvent grandement aider à la réalisation de ce projet.
+
+- **Animation 2D** : Pour la réalisation des fresques.
+- **Conception sonore** : Pour créer une bande sonore qui aide à installer l'ambiance.
+- **Espace intéractif** : Pour la mise en place et l'utlisation du logiciel Max.
