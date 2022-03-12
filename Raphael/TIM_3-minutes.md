@@ -38,3 +38,8 @@ Lors de son arrivée, l'intéracteur sera invité à prendre part à un mini-jeu
 
 ## Compétences nécessaire
 
+Pour ce projet, les cours de Conception sonore (3e session), Réalité virtuelle (8e session), Espace interactif (5e session) peuvent grandement aider à la réalisation de ce projet.
+
+- **Conception sonore** : Pour créer une bande sonore qui aide à installer l'ambiance anxiogène.
+- **Réalité virtuelle** : Pour la création du mini-jeu
+- **Espace intéractif** : Pour la mise en place de l'oeuvre.
